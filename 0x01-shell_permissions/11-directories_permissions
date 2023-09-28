@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644 644 644 755 755 755
+chmod 644 for regular files and 755 for directories 
