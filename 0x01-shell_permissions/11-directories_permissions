@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x *[d]
+chmod [644] 755 *[d]
