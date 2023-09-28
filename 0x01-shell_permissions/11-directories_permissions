@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -exec stat -c "%A" {} \
+chmod +r ugo+x *[d]
