@@ -1,0 +1,11 @@
+# What happens when you type google.com in your browser and press Enter
+
+1. Domain Name Lookup: The browser doesn't actually understand "google.com" instead, it acts as an intermediary. It sends a request to a Domain Name System (DNS) server. This server acts like a phone book for the internet, translating the human-readable domain name "google.com" into a numerical IP address that computers can understand.
+
+2. Connecting to the Server: Once the DNS server provides the IP address for google.com, the browser initiates a connection with the Google server at that address.
+
+3. Requesting the Webpage:  The browser sends a request to the Google server, specifying that you want to access the homepage (indicated by "google.com"). This request includes additional information like the type of browser you're using and your preferred language.
+
+4. Server Response: The Google server receives the request and retrieves the relevant data for the homepage. This data includes the HTML code that structures the webpage, along with any images, videos, or other content.
+
+5. Rendering the Page: The Google server sends this data back to the browser. The browser interprets the HTML code and other data, displaying the Google homepage on the screen. It also downloads and displays any images or other media included on the page.
